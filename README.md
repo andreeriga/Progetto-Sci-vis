@@ -9,4 +9,4 @@ Il progetto da noi svolto tratta il tema dei Pokémon, andando verso una tematic
 sia con la Nintendo(azienda di videogiochi famosa anche per aver prodotto i giochi Pokémon) che con i giochi Pokémon
 
 > [!CAUTION]
->Per visualizzare i grafici relativi al codice <p><a href="[/url](https://github.com/AndreaRigamontiUnimi/Progetto-Sci-vis/blob/main/stats.ipynb)", style='color:green'>stats.ipynb</a></p>, serve andare a questo link: https://nbviewer.org/github/AndreaRigamontiUnimi/Progetto-Sci-vis/blob/main/stats.ipynb, abbiamo riscontrato un problema con github che non visualizza i grafici creati con la libreria di python <b>plotly.graph_objects</b>, il file è comunque presente negli script del progetto.
+>Per visualizzare i grafici relativi al codice <p><a href="https://github.com/AndreaRigamontiUnimi/Progetto-Sci-vis/blob/main/stats.ipynb">stats.ipynb</a></p>, serve andare a questo link: https://nbviewer.org/github/AndreaRigamontiUnimi/Progetto-Sci-vis/blob/main/stats.ipynb, abbiamo riscontrato un problema con github che non visualizza i grafici creati con la libreria di python <b>plotly.graph_objects</b>, il file è comunque presente negli script del progetto.
