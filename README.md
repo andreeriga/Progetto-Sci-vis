@@ -7,3 +7,5 @@ Progetto di visualizzazione scientifica svolto da:
 
 Il progetto da noi svolto tratta il tema dei Pokémon, andando verso una tematica più generale, ovvero i videogames, confrontando questi ultimi 
 sia con la Nintendo(azienda di videogiochi famosa anche per aver prodotto i giochi Pokémon) che con i giochi Pokémon
+
+NOTA: per visualizzare i grafici relativi al codice stats.ipynb, serve eseguire andare a questo link: https://nbviewer.org/github/AndreaRigamontiUnimi/Progetto-Sci-vis/blob/main/stats.ipynb, abbiamo riscontrato un problema con github che non visualizza i grafici creati con la libreria di python <b>plotly.graph_objects as go</b>, il file è comunque presente negli script del progetto, ci scusiamo per l'inconveniente!
