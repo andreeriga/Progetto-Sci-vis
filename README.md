@@ -1,4 +1,5 @@
-# Progetto-Sci-vis
+# Progetto Visualizzazione Scientifica
+
 Progetto di visualizzazione scientifica svolto da: 
 
  - Rigamonti Eleonora : 989483 - eleonora.rigamonti@studenti.unimi.it
