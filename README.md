@@ -1,4 +1,3 @@
-<style>a{color:red; text-decoration:none}</style>
 # Progetto Visualizzazione Scientifica
 
 Progetto di visualizzazione scientifica svolto da: 
